@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-<img align="right" width="360" height="360" alt="_Coder Girl Kawaii Style Cute_ Sticker for Sale by hchang0803" src="https://github.com/user-attachments/assets/cb9b91fb-3005-4517-89f9-00c64575d3cd" />
+<img align="right" width="300" height="360" alt="_Coder Girl Kawaii Style Cute_ Sticker for Sale by hchang0803" src="https://github.com/user-attachments/assets/cb9b91fb-3005-4517-89f9-00c64575d3cd" />
 
 - 💻 Developer passionate about building and problem-solving
    
